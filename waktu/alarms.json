@@ -1,0 +1,13 @@
+{
+    "690ab37accf90": {
+        "id": "690ab37accf90",
+        "label": "Alarm",
+        "datetime": "2025-11-05T04:01",
+        "recurring": true,
+        "use_tts": false,
+        "tts_text": "Waktu Anda telah tiba",
+        "audio_file": "uploads/a_690ab37acce8a.mp3",
+        "enabled": true,
+        "created_at": "2025-11-05T03:16:26+01:00"
+    }
+}
