@@ -1,3 +1,3 @@
-index.php = versi 1
-index2.php = versi 2
-json = array waktu
+- index.php = versi 1
+- index2.php = versi 2
+- json = array waktu
